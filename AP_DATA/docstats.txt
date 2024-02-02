@@ -1,0 +1,4 @@
+doc_count 5
+avg_doc_length 559
+doc_count 84660
+avg_doc_length 446
